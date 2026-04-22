@@ -1,0 +1,28 @@
+# Données (trop lourdes, régénérées via les scripts)
+data/raw/
+data/processed/
+data/external/
+!data/sample/
+!data/**/.gitkeep
+
+# Power BI
+*.pbix
+~$*.pbix
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Env
+.env
