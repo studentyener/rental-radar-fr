@@ -52,7 +52,7 @@ rental-radar-fr/
 ## Installation et utilisation
 
 ```bash
-git clone https://github.com/dogukanyener/rental-radar-fr.git
+git clone https://github.com/studentyener/rental-radar-fr.git
 cd rental-radar-fr
 python3 -m venv .venv
 source .venv/bin/activate
